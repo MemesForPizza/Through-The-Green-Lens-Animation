@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: local('JetBrains Mono'), url("webfonts/JetBrainsMono-Regular.woff2") format('woff');
+}
+
+@font-face {
+    font-family: 'JetBrains Mono Bold';
+    src: local('JetBrains Mono Bold'), url("webfonts/JetBrainsMono-Bold.woff2") format('woff');
+}
+
+@font-face {
+    font-family: 'Torus';
+    src: local('Torus'), url("webfonts/Torus-Regular.otf") format('opentype');
+}
+
+@font-face {
+    font-family: 'Torus SemiBold';
+    src: local('Torus Bold'), url("webfonts/Torus-SemiBold.otf") format('opentype');
+}
+
+@font-face {
+    font-family: 'Torus Bold';
+    src: local('Torus Bold'), url("webfonts/Torus-Bold.otf") format('opentype');
+}

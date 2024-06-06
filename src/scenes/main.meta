@@ -1,0 +1,202 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "Our (main/Dialogue[1])",
+      "targetTime": 0
+    },
+    {
+      "name": "world (main/Dialogue[2])",
+      "targetTime": 0.1192415363106673
+    },
+    {
+      "name": "is (main/Dialogue[3])",
+      "targetTime": 0.5050874105374248
+    },
+    {
+      "name": "in (main/Dialogue[4])",
+      "targetTime": 0.678983781613366
+    },
+    {
+      "name": "DANGER! (main/Dialogue[5])",
+      "targetTime": 1.026442559584433
+    },
+    {
+      "name": "Preserve (main/Dialogue[6])",
+      "targetTime": 2.0230463774608234
+    },
+    {
+      "name": "our (main/Dialogue[7])",
+      "targetTime": 2.3259738750896215
+    },
+    {
+      "name": "planet. (main/Dialogue[8])",
+      "targetTime": 2.6146162031026225
+    },
+    {
+      "name": "It (main/Dialogue[9])",
+      "targetTime": 3.1367500312714105
+    },
+    {
+      "name": "starts (main/Dialogue[10])",
+      "targetTime": 3.394081625824331
+    },
+    {
+      "name": "WITH (main/Dialogue[11])",
+      "targetTime": 4.104195055943777
+    },
+    {
+      "name": "YOU! (main/Dialogue[12])",
+      "targetTime": 4.63265379790097
+    },
+    {
+      "name": "pause #1",
+      "targetTime": 4.63265379790097
+    },
+    {
+      "name": "Menu1-Item0",
+      "targetTime": 8.913884741681105
+    },
+    {
+      "name": "Menu1-Item1",
+      "targetTime": 9.911615634645557
+    },
+    {
+      "name": "Menu1-Item2",
+      "targetTime": 10.881305350541588
+    },
+    {
+      "name": "Menu1-Item3",
+      "targetTime": 13.049755386112569
+    },
+    {
+      "name": "Menu1-Item4",
+      "targetTime": 14.250784812823065
+    },
+    {
+      "name": "Menu1-Dialogue1",
+      "targetTime": 18.942940784551833
+    },
+    {
+      "name": "Menu1-End",
+      "targetTime": 20.47345404181626
+    },
+    {
+      "name": "Even (main/Dialogue[13])",
+      "targetTime": 23.054895301245708
+    },
+    {
+      "name": "a (main/Dialogue[14])",
+      "targetTime": 23.207871122433126
+    },
+    {
+      "name": "few (main/Dialogue[15])",
+      "targetTime": 23.42588529457019
+    },
+    {
+      "name": "minutes (main/Dialogue[16])",
+      "targetTime": 23.581255732805175
+    },
+    {
+      "name": "can (main/Dialogue[17])",
+      "targetTime": 23.770167651123447
+    },
+    {
+      "name": "make (main/Dialogue[18])",
+      "targetTime": 24.00233246626998
+    },
+    {
+      "name": "a (main/Dialogue[19])",
+      "targetTime": 24.243233768729354
+    },
+    {
+      "name": "difference! (main/Dialogue[20])",
+      "targetTime": 24.34972035234068
+    },
+    {
+      "name": "pause #2",
+      "targetTime": 24.825455729814657
+    },
+    {
+      "name": "pause #3",
+      "targetTime": 26.324542069334292
+    },
+    {
+      "name": "pause #4",
+      "targetTime": 29.824542069334292
+    },
+    {
+      "name": "stat-electricity",
+      "targetTime": 30.547685471254656
+    },
+    {
+      "name": "stat-health",
+      "targetTime": 32.279230916646256
+    },
+    {
+      "name": "pause #5",
+      "targetTime": 34.08353311204365
+    },
+    {
+      "name": "Menu2-Item0",
+      "targetTime": 34.490986673183706
+    },
+    {
+      "name": "Menu2-Confirm",
+      "targetTime": 36.310638678229935
+    },
+    {
+      "name": "recyclable-paper",
+      "targetTime": 38.570493916219775
+    },
+    {
+      "name": "recyclable-plastic",
+      "targetTime": 39.37049391621977
+    },
+    {
+      "name": "recyclable-glass",
+      "targetTime": 40.17049391621977
+    },
+    {
+      "name": "recyclable-metal",
+      "targetTime": 40.970493916219766
+    },
+    {
+      "name": "pause #6",
+      "targetTime": 51.480177428798854
+    },
+    {
+      "name": "pause #7",
+      "targetTime": 53.841520817995125
+    },
+    {
+      "name": "Let's (main/Dialogue[21])",
+      "targetTime": 54.80426992152768
+    },
+    {
+      "name": "do (main/Dialogue[22])",
+      "targetTime": 55.070177645565145
+    },
+    {
+      "name": "our (main/Dialogue[23])",
+      "targetTime": 55.25577268095895
+    },
+    {
+      "name": "part (main/Dialogue[24])",
+      "targetTime": 55.545499555561555
+    },
+    {
+      "name": "and (main/Dialogue[25])",
+      "targetTime": 55.77530553236874
+    },
+    {
+      "name": "remember: (main/Dialogue[26])",
+      "targetTime": 56.00233555583407
+    },
+    {
+      "name": "pause #8",
+      "targetTime": 56.56068260472169
+    }
+  ],
+  "seed": 4008346130
+}

@@ -1,0 +1,11 @@
+Some files and folders listed here are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+source: github.com/ppy/osu-resources
+- images/background/bg1.png
+- images/background/bg2.png
+- images/cursor
+
+Some files have been modified:
+
+source: github.com/ppy/osu-resources
+- images/cursor/cursor-additive.png

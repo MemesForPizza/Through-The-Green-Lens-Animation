@@ -1,0 +1,46 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "Our",
+      "targetTime": 0
+    },
+    {
+      "name": "world",
+      "targetTime": 0.20573905170471132
+    },
+    {
+      "name": "is",
+      "targetTime": 0.51391469687746
+    },
+    {
+      "name": "in",
+      "targetTime": 0.6754644899479998
+    },
+    {
+      "name": "DANGER!",
+      "targetTime": 0.8711255296045347
+    },
+    {
+      "name": "and",
+      "targetTime": 1.7186681972209708
+    },
+    {
+      "name": "it's",
+      "targetTime": 1.8725535632019856
+    },
+    {
+      "name": "because",
+      "targetTime": 2.077734051176672
+    },
+    {
+      "name": "of",
+      "targetTime": 2.4239761246339553
+    },
+    {
+      "name": "US!",
+      "targetTime": 2.6590787671049503
+    }
+  ],
+  "seed": 4008346130
+}
